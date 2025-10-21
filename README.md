@@ -94,7 +94,7 @@ Specify here your license (e.g., MIT License).
 
 ```
 MIT License
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Mudassar Hakim
 ```
 
 ## Contributing
